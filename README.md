@@ -1,5 +1,7 @@
 # MagicCamera 
 
+Android+JNI+OpenGL开发自己的美图秀秀：
+http://blog.csdn.net/oshunz/article/details/50537631
 Idea from:android-gpuimage
 
 Real-time Filter Camera&VideoRecorder And ImageEditor With Face Beauty For Android
